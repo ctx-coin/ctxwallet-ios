@@ -7,3 +7,6 @@
 [submodule "Modules/loafwallet-core"]
 	path = Modules/loafwallet-core
 	url = https://github.com/litecoin-foundation/loafwallet-core.git
+[submodule "Modules/ctxwallet-core"]
+	path = Modules/ctxwallet-core
+	url = https://github.com/ctx-coin/ctxwallet-core
